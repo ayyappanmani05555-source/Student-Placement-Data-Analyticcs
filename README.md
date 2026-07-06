@@ -86,5 +86,21 @@ The cleaned dataset is then imported into Power BI for advanced analysis and vis
 Finally, the dashboard is used to generate meaningful insights and recommendations. The analysis helps identify departments with the highest placement rates, the impact of internships and certifications on employability, and the companies offering the highest salary packages. Based on these findings, recommendations are provided to improve placement performance, such as encouraging internships, promoting professional certifications, enhancing skill development programs, and strengthening relationships with recruiting companies. This complete process demonstrates how Excel and Power BI can be effectively used to transform raw student placement data into valuable insights that support informed decision-making.
 
 # Dashboard Interaction
-- <a href="https://github.com/ayyappanmani05555-source/Student-Placement-Data-Analyticcs/blob/main/Student_Placement_Dataset_50.xlsx">Dataset</a>
+- <a href="https://github.com/ayyappanmani05555-source/Student-Placement-Data-Analyticcs/blob/main/ayyappan%20student%20details.csv.pbix">View dashboad</a>
 
+# Project Insights
+The analysis of the student placement data revealed several important insights into the factors influencing placement outcomes. Students with higher CGPA scores generally achieved better placement rates, indicating that academic performance plays a significant role in securing employment opportunities. Internship experience was another major factor, as students who completed internships were more likely to be placed than those without practical industry exposure.
+
+The dashboard also showed that students holding professional certifications had a higher placement percentage and were often offered better salary packages. Department-wise analysis highlighted that some departments consistently achieved higher placement rates, while others required additional training and placement support. Gender-wise analysis indicated that placement opportunities were distributed across both male and female students, with differences varying depending on the department and skill set.
+
+Company-wise analysis identified the top recruiting organizations and the number of students hired by each company, helping the institution understand its strongest recruitment partners. Salary analysis revealed the average and highest salary packages offered during the placement season, enabling comparisons across departments and companies.
+
+Overall, the interactive Power BI dashboard provided a clear and comprehensive view of placement performance through KPIs, charts, and filters. These insights can help educational institutions strengthen internship programs, encourage professional certifications, improve student skill development, and make informed decisions to enhance future placement outcomes.
+
+# Final Conclusion
+
+The Student Placement Data Analytics project successfully analyzed student placement data using Microsoft Excel and Power BI to evaluate placement performance and identify the key factors influencing student employability. Excel was used for data collection, cleaning, organization, and preliminary analysis, while Power BI enabled the creation of an interactive dashboard with KPIs and visualizations that simplified data exploration and reporting.
+
+The analysis showed that factors such as academic performance, internship experience, and professional certifications positively influenced placement outcomes and salary packages. Department-wise, company-wise, and gender-wise analyses provided valuable insights into placement trends and recruitment patterns, helping to identify areas of strength and opportunities for improvement.
+
+Overall, this project demonstrates how data analytics and business intelligence tools can transform raw placement data into meaningful insights that support data-driven decision-making. The interactive dashboard can assist educational institutions in monitoring placement performance, improving student readiness, strengthening industry partnerships, and developing effective placement strategies to achieve better outcomes in future placement drives.
