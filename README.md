@@ -1,1 +1,1 @@
-# Student-Placement-Data-Analyticcs
+# Student-Placement-Data-Analytics
